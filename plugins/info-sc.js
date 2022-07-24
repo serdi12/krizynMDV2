@@ -6,7 +6,7 @@ Knp kak ${ye} Lagi Nyari Sc Ya?
 𝘊𝘈𝘙𝘐 𝘈𝘑𝘈 𝘋𝘐 𝘠𝘖𝘜 𝘛𝘜𝘉𝘌
 
 𝚈𝙾𝚄 𝚃𝚄𝙱𝙴 :
-https://youtube.com/channel/UC1ikkqsPvtWuE_QonsET1yg
+https://saweria.co/IyanMd
 
 JOIN GC BOT:
 https://chat.whatsapp.com/F6CAAOhrORm1sPdq6cRKAS
