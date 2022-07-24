@@ -87,7 +87,19 @@ global.APIKeys = { // APIKey Here
   'https://zekais-api.herokuapp.com': 'apikeymu',
   'https://api.lolhuman.xyz': 'Deffbotz',
 }
-
+global.APIKeys = { // APIKey Here
+  // 'https://website': 'apikey'
+  'https://neoxr-api.herokuapp.com': 'yntkts',
+  'https://api.xteam.xyz': 'apikeylu',
+  'https://melcanz.com': 'apikeylu',
+  'https://api.lolhuman.xyz': 'apikeylu',
+  'https://zahirr-web.herokuapp.com': 'zahirgans',
+  'https://api.zeks.me': 'apikeylu',
+  'https://pencarikode.xyz': 'apikeylu',
+  'https://hardianto.xyz': 'hardianto',
+  'https://leyscoders-api.herokuapp.com': 'apikeylu',
+  'https://api.adiofficial.xyz': 'apikey lu'
+}
 //=============『 RPG GAMES 』================== //
 global.multiplier = 69 // The higher, The harder levelup
 global.rpg = {
