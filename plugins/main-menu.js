@@ -43,7 +43,7 @@ const defaultMenu = {
   header: '╭─㉿ 〔 %category 〕 ㉿─\n┃',
   body: '┃⫹⫺ %cmd %islimit %isPremium',
   footer: '┃\n╰────────㉿\n', 
-  footerText: 'Powered by ᯤ ʀɪᴇʟɢᴀɴs ᴏғᴄ',
+  footerText: 'Powered by ᯤ 𝚁𝙲𝚃𝙸𝙱𝙾𝚃_ᴏғᴄ',
   after: `
 ╭──〔  THANKS TO  〕─⬣
 ⫹⫺ Allah SWT
