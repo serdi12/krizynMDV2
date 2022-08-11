@@ -6,21 +6,21 @@
 // RECODE BACK BY ARULL OFC
 
 //=============『 Utama 』================== //
-global.owner = ['6289516947204'] 
+global.owner = ['6281364150144'] 
 global.mods = [''] 
 global.prems = ['6289516947204'] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = '𝚒𝚢𝚊𝚗Ⓒ︎ ✰'
-global.numberowner = '6289516947204'
+global.nameowner = 'Ryzuu ✰'
+global.numberowner = '6281364150144'
 global.instagram = 'https://saweria.co/IyanMd'
 global.github = 'https://saweria.co/IyanMd'
-global.dana = '089516947204'
-global.pulsa = '089516947204'
+global.dana = '081364150144'
+global.pulsa = '081364150144'
 global.gopay = '089516947204'
 
 //=============『 Info Bot 』=================//
-global.namebot = '𝚁𝙲𝚃𝙸 𝙱𝙾𝚃'
+global.namebot = 'Ryzuu 𝙱𝙾𝚃'
 global.gc = 'https://saweria.co/IyanMd'
 global.web = 'https://saweria.co/IyanMd' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.webm = 'https://saweria.co/IyanMd'
@@ -31,10 +31,10 @@ global.fotonya1 = 'https://telegra.ph/file/57f6828f84e24c3c58dfe.jpg' //ganti ja
 global.fotonya2 = 'https://telegra.ph/file/57f6828f84e24c3c58dfe.jpg' //ini juga ganti 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = '↻𝚁𝙲𝚃𝙸 𝙱𝙾𝚃'
+global.wm = '↻Ryzuu 𝙱𝙾𝚃'
 global.watermark = wm
-global.wm2 = 'ᯤ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 𝙱𝚈 𝚁𝙲𝚃𝙸 𝙱𝙾𝚃 ×፝֟͜×'
-global.wm3 = 'ᯤ 𝚒𝚢𝚊𝚗Ⓒ︎'
+global.wm2 = 'ᯤ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 𝙱𝚈 Ryzuu 𝙱𝙾𝚃 ×፝֟͜×'
+global.wm3 = 'ᯤ Ryu'
 global.htki = '––––––『' 
 global.htka = '』––––––'
 global.media = 'https://telegra.ph/file/57f6828f84e24c3c58dfe.jpg'
@@ -45,7 +45,7 @@ global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = '⏳ Stiker sedang Proses'
 global.packname = 'Sticker By'
-global.author = '@𝚒𝚢𝚊𝚗Ⓒ︎✵'
+global.author = '@Ryzuu✵'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
